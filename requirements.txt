@@ -1,0 +1,7 @@
+shiny
+shinywidgets
+faicons
+plotly
+scipy
+pandas
+statsmodels
